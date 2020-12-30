@@ -21,6 +21,6 @@ queries:
   - 14864
 ---
 
-Aave is an open source and non-custodial protocol enabling the creation of money markets. Users can earn interest on deposits and borrow assets.
+Earn fixed-rate interest on your crypto. Buy floating-rate bonds. Earn MPH rewards
 
-*From https://aave.com/.*
+*https://88mph.app/*
